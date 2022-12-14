@@ -12,7 +12,7 @@ Affiliations:<br/>
 &ensp;&ensp;<sup>\*\*</sup> Corresponding author, Email:&ensp;Clive.Svendsen@cshs.org<br/>
 <br/>
 R version 4.2.2<br/>
-R Script Title:&ensp;moser_et_al_2022_v2.R<br/>
+R Script Title:&ensp;moser_et_al_2022.R<br/>
 R Script Author:&ensp;Shaughn Bell<br/>
 R Script Corresponding Email:&ensp;Shaughn.Bell@cshs.org<br/>
 <br/>
