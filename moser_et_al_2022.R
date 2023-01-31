@@ -41,7 +41,7 @@
   #### Script Information ####
 
 ##
-# R version 4.2.2
+# R version 4.2.1
 # R Script Title:  moser_et_al_2022.R
 # R Script Author:  Shaughn Bell
 # R Script Corresponding Email:  shaughn.bell@cshs.org
