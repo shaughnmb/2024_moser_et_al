@@ -21,8 +21,9 @@
   #### Title and Authors ####
 
 ##
-# Title: Human iPSC-derived mononuclear phagocytes improve cognition and neural 
-#        health and restore a subpopulation of hippocampal mossy cells in aging mice 
+# Title: Human iPSC-derived mononuclear phagocytes restore cognition, 
+#        neural health, and a subpopulation of hippocampal mossy cells 
+#        in aging mice
 #
 # Authors:  V. Alexandra Moser 1, Rachel M. Lipman 1, Shaughn Bell 1, 
 #           George Lawless 1, Luz Jovita Dimas-Harms 1, Jake Inzalaco 1, 
