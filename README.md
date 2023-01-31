@@ -11,7 +11,7 @@ Affiliations:<br/>
 &ensp;&ensp;<sup>2</sup> Cedars-Sinai Smidt Heart Institute, Department of Cardiology, Cedars-Sinai Medical Center, Los Angeles CA, USA<br/>
 &ensp;&ensp;<sup>\*\*</sup> Corresponding author, Email:&ensp;Clive.Svendsen@cshs.org<br/>
 <br/>
-R version 4.2.2<br/>
+R version 4.2.1<br/>
 R Script Title:&ensp;moser_et_al_2022.R<br/>
 R Script Author:&ensp;Shaughn Bell<br/>
 R Script Corresponding Email:&ensp;Shaughn.Bell@cshs.org<br/>
