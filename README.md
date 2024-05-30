@@ -1,6 +1,6 @@
 # 2024_moser_et_al
 
-R script and Processed Proteomics Data for:<br/>
+R script and processed proteomics data for:<br/>
 **Human iPSC-derived mononuclear phagocytes restore cognition and neural health across multiple mouse models of aging and Alzheimer’s disease**<br/>
 <br/>
 Authors:<br/>
